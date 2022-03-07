@@ -1,5 +1,8 @@
 # transfer-traffic
 
+- [sshuttle allows you to create a VPN connection from your machine to any remote server that you can connect to via ssh](https://github.com/sshuttle/sshuttle)
+- [It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions.](https://github.com/astroza/udptunnel)
+- [Transparently tunnel your IP traffic through ICMP echo and reply packets](https://github.com/DhavalKapil/icmptunnel)
 - [tunnel IPv4 data through a DNS server](https://github.com/yarrick/iodine)
 - [Performing air gap data exfiltration via activity LEDs](https://github.com/clfs/led-airgap)
 - [Leaking (a lot of) Data from Air-Gapped Computers via the (small) Hard Drive LED](https://github.com/daedalus/LEDITGO)
