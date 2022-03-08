@@ -1,5 +1,6 @@
 # transfer-traffic
 
+- [Algorithms to convert arbitrary binary data into video and vice versa](https://github.com/bfaure/Data2Video)
 - [Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims](https://github.com/mandatoryprogrammer/CursedChrome) \- **CursedChrome can bypass [JA3 SSL Fingerprint](https://ja3er.com/) filter**
 - [Spudnet 2.0 Repeater (Scrap Mechanic game)](https://steamcommunity.com/sharedfiles/filedetails/?id=1485675868) \- [Youtube](https://www.youtube.com/watch?v=-fLeDUgDKbU)
 - [A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
