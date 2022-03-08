@@ -1,5 +1,6 @@
 # transfer-traffic
 
+- [rdp2tcp: open tcp tunnel through remote desktop connection](https://github.com/V-E-O/rdp2tcp)
 - [An AWS Lambda powered HTTP/SOCKS web proxy](https://github.com/dan-v/awslambdaproxy)
 - [Algorithms to convert arbitrary binary data into video and vice versa](https://github.com/bfaure/Data2Video)
 - [Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims](https://github.com/mandatoryprogrammer/CursedChrome) \- **CursedChrome can bypass [JA3 SSL Fingerprint](https://ja3er.com/) filter**
