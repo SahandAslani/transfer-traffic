@@ -1,6 +1,6 @@
 # transfer-traffic
 
-- [https://github.com/cbeuw/Cloak](https://github.com/cbeuw/Cloak)
+- [A censorship circumvention tool to evade detection by authoritarian state adversaries](https://github.com/cbeuw/Cloak)
 - [Rapid SSH Proxy](https://github.com/Snawoot/rsp)
 - [IP over SMS- leveraging SMS to provide IP connectivity](https://github.com/spandanb/ipos)
 - [Send any type of data over Facebook](https://github.com/beneri/ip-over-facebook)
